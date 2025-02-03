@@ -87,6 +87,6 @@ li::after{
 }
 li:hover
 {
-    background:rgb(26,100,214);
+    background:rgba(26, 101, 214, 0.679);
     color: #ffffff;
 }
