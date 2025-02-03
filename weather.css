@@ -1,4 +1,10 @@
 #changeCity
+body
+{
+    display:flex;
+    flex-wrap:warp;
+    justify-content:center;
+}
 {
     border: 3px solid black;
     border-radius: 10px;
